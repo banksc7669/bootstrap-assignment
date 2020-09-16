@@ -10,6 +10,7 @@ body {
 
 .footer {
     padding: 0px;
+    margin: 15px 0px 0px 0px; 
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
@@ -22,3 +23,8 @@ body {
     color: white;
 }
 
+#Linkedin > p{
+    padding: 0px 0px 0px 15px;}
+
+    #Linkedin > a{
+        padding: 0px 0px 0px 15px;}
